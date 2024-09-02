@@ -4,4 +4,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/hexlet-components/hello-from-hexlet-action@v1
+      - uses: hexlet-components/hello-from-hexlet-action@v1
