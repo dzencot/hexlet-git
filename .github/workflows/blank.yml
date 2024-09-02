@@ -4,4 +4,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/javascript-action@v1
+      - uses: actions/hello-from-hexlet-action@v1
