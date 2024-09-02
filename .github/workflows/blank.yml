@@ -1,2 +1,4 @@
+name: End-to-end tests
+on: [push]
 steps:
   - uses: hexlet-components/hello-from-hexlet-action
